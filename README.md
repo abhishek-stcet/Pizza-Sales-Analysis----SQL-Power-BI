@@ -2,7 +2,7 @@
 
 ## Pizza Sales Analysis using SQL and Power BI
 
-# [Click here to view the live Dashboard](https://project.novypro.com/ARump1)![Slide1](https://github.com/abhishek-kotafactory/Pizza-Sales-Analysis----SQL-Power-BI/assets/160778673/6d721f07-b183-4b07-b807-dbce98cb2258)
+# [Click here](https://project.novypro.com/ARump1) to view the live Dashboard.![Slide1](https://github.com/abhishek-kotafactory/Pizza-Sales-Analysis----SQL-Power-BI/assets/160778673/6d721f07-b183-4b07-b807-dbce98cb2258)
 ![Slide2](https://github.com/abhishek-kotafactory/Pizza-Sales-Analysis----SQL-Power-BI/assets/160778673/a3b47271-710e-47ac-ae1a-8ef0df03eebd)
 ![Slide3](https://github.com/abhishek-kotafactory/Pizza-Sales-Analysis----SQL-Power-BI/assets/160778673/968b2fcb-76f8-459e-9534-ffd8ea46e9ba)
 ![Slide4](https://github.com/abhishek-kotafactory/Pizza-Sales-Analysis----SQL-Power-BI/assets/160778673/14dc0705-cbb0-4c17-8577-664846e645d2)
